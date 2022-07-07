@@ -1,0 +1,52 @@
+﻿  main.cpp
+c:\game\2d\entity.h(19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\entity.h(20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\gamer.h(44): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\gamer.h(45): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\gamer.h(49): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\game\2d\gamer.h(50): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\game\2d\gamer.h(60): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\gamer.h(68): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\gamer.h(74): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\gamer.h(76): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\gamer.h(85): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\gamer.h(87): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\gamer.h(92): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\gamer.h(94): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\gamer.h(109): warning C4305: аргумент: усечение из "double" в "float"
+c:\game\2d\gamer.h(110): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\game\2d\gamer.h(117): warning C4305: аргумент: усечение из "double" в "float"
+c:\game\2d\gamer.h(118): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\game\2d\gamer.h(125): warning C4305: аргумент: усечение из "double" в "float"
+c:\game\2d\gamer.h(126): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\game\2d\gamer.h(133): warning C4305: аргумент: усечение из "double" в "float"
+c:\game\2d\gamer.h(134): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+c:\game\2d\boom.h(14): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\game\2d\boom.h(15): warning C4305: =: усечение из "double" в "float"
+c:\game\2d\boom.h(21): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\game\2d\boom.h(27): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\game\2d\boom.h(29): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+c:\game\2d\boom.h(33): warning C4305: =: усечение из "double" в "float"
+c:\game\2d\boom.h(33): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\game\2d\boom.h(34): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+c:\game\2d\boom.h(34): warning C4305: =: усечение из "double" в "float"
+c:\game\2d\boom.h(34): warning C4244: аргумент: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+c:\game\2d\full.h(48): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+c:\game\2d\full.h(119): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  2d.vcxproj -> C:\game\2d\Debug\2d.exe
